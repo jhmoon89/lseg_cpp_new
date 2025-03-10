@@ -1,0 +1,3 @@
+/home/jihoon-epitone/Downloads/lseg_cpp_new/build/CMakeFiles/main.dir
+/home/jihoon-epitone/Downloads/lseg_cpp_new/build/CMakeFiles/edit_cache.dir
+/home/jihoon-epitone/Downloads/lseg_cpp_new/build/CMakeFiles/rebuild_cache.dir
